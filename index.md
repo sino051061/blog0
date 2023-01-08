@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog\n
+title: "Welcome to my blog"
 Tnks
 > Aaa
 ---
